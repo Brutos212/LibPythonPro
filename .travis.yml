@@ -1,5 +1,8 @@
 language: python
 python: -3.9 -3.10
 
-install: -pip install -r requirements-dev.txt
-script: -flake8 -pytest liBpyhonPro
+install: -pip install -r requirements-dev.txt codecov
+
+script: -flake8 -pytest liBpyhonPro --cov=liBpythonPro
+
+after_success: -codecov
