@@ -97,7 +97,7 @@ pacman-mirrors==4.23.2
 paramiko==2.7.2
 parso==0.8.2
 passlib==1.7.4
-pbr==5.8.0
+pbr==7.1.3
 pep517==0.12.0
 pexpect==4.8.0
 pickleshare==0.7.5
