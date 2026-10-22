@@ -132,7 +132,7 @@ python-editor==1.0.4
 python-xlib==0.31
 pytz==2021.3
 pyxdg==0.27
-PyYAML==5.4.1
+PyYAML==6.0.3
 rados==2.0.0
 ranger-fm==1.9.3
 rbd==2.0.0
