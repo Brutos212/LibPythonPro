@@ -63,7 +63,7 @@ greenlet==1.1.2
 gssapi==1.6.14
 gufw==21.4.0
 html5lib==1.1
-httplib2==0.20.3
+httplib2==0.32.0
 hyperlink==21.0.0
 idna==3.3
 importlib-metadata==4.8.1
