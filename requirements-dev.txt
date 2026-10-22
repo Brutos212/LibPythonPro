@@ -129,7 +129,7 @@ pysmbc==1.0.23
 pytest==6.2.5
 python-dateutil==2.8.2
 python-editor==1.0.4
-python-xlib==0.31
+python-xlib==0.33
 pytz==2021.3
 pyxdg==0.27
 PyYAML==5.4.1
