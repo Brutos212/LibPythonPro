@@ -28,7 +28,7 @@ colorama==0.4.4
 configobj==5.1.0.dev0
 constantly==15.1.0
 contextlib2==0.6.0.post1
-cryptography==36.0.1
+cryptography==50.0.2
 decorator==5.1.0
 distlib==0.3.3
 distro==1.6.0
