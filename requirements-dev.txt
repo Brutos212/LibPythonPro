@@ -12,7 +12,7 @@ beautifulsoup4==4.10.0
 blinker==1.4
 Brotli==1.0.9
 btrfsutil==5.15.1
-CacheControl==0.12.6
+CacheControl==0.14.4
 cachetools==4.2.4
 caffeine-ng==3.5.1.post27+g1e5febf.d20211213
 ceph==1.0.0
