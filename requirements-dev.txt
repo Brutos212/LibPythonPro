@@ -149,7 +149,7 @@ simplejson==3.17.6
 six==1.16.0
 soupsieve==2.2.1
 speaklater==1.3
-SQLAlchemy==1.3.24
+SQLAlchemy==2.1.6
 sqlparse==0.4.2
 sshtunnel==0.4.0
 TBB==0.2
