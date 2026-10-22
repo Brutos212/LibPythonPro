@@ -176,5 +176,5 @@ zope.interface==5.4.0
 
 
 # Deps do pytest
-coverage==6.3
+coverage==7.16.2
 pytest-cov==3.0.0
