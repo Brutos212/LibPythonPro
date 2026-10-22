@@ -13,7 +13,7 @@ pyflakes==2.4.0
 pylint==2.12.2
 requests==2.27.1
 toml==0.10.2
-urllib3==1.26.8
+urllib3==2.8.0
 wrapt==1.13.3
 
 # pip install -r requirements.txt
