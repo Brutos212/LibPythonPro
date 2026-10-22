@@ -24,7 +24,7 @@ cffi==1.15.0
 chardet==4.0.0
 chrome-gnome-shell==0.0.0
 click==8.0.3
-colorama==0.4.4
+colorama==0.4.6
 configobj==5.1.0.dev0
 constantly==15.1.0
 contextlib2==0.6.0.post1
