@@ -21,7 +21,7 @@ cephfs==2.0.0
 cephfs-shell==0.0.1
 certifi==2021.10.8
 cffi==1.15.0
-chardet==4.0.0
+chardet==7.7.0
 chrome-gnome-shell==0.0.0
 click==8.0.3
 colorama==0.4.4
