@@ -136,7 +136,7 @@ PyYAML==5.4.1
 rados==2.0.0
 ranger-fm==1.9.3
 rbd==2.0.0
-reportlab==3.6.3
+reportlab==5.1.0
 requests==2.26.0
 requests-file==1.5.1
 resolvelib==0.5.5
