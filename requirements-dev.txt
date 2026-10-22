@@ -75,7 +75,7 @@ itsdangerous==2.0.1
 jedi==0.18.1
 Jinja2==3.0.3
 layoutswitcherlib==0.8.22
-ldap3==2.9
+ldap3==2.9.1
 LibAppArmor==3.0.3
 libmsym==0.2.4
 lit==13.0.0.dev0
