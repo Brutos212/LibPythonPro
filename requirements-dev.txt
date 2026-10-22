@@ -19,7 +19,7 @@ ceph==1.0.0
 ceph-volume==1.0.0
 cephfs==2.0.0
 cephfs-shell==0.0.1
-certifi==2021.10.8
+certifi==2026.10.19
 cffi==1.15.0
 chardet==4.0.0
 chrome-gnome-shell==0.0.0
